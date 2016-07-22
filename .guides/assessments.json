@@ -1,0 +1,308 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-553424642",
+  "source": {
+   "name": "Question 1: The internet is an example of a…",
+   "showName": false,
+   "instructions": "**Question 1: The internet is an example of a…**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "28264d6e-abdc-9e2b-6497-326540fafb4f",
+     "correct": false,
+     "answer": "local area network"
+    },
+    {
+     "_id": "58792d10-8d52-400f-8a9d-3ef0097bcf7e",
+     "correct": false,
+     "answer": "personal area network"
+    },
+    {
+     "_id": "96a58753-a498-78a3-c0cc-bb37e5058efb",
+     "correct": false,
+     "answer": "wide area network"
+    },
+    {
+     "_id": "6fa68b3f-4e72-bdea-adc4-0481b237c86e",
+     "correct": true,
+     "answer": "metropolitan area network"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2927189063",
+  "source": {
+   "name": "Question 2: Which two of the following are services provided by the internet?",
+   "showName": false,
+   "instructions": "**Question 2: Which two of the following are services provided by the internet?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "correct": true,
+     "answer": "World wide web",
+     "_id": "b1ef8cd6-630a-23e7-6fb9-10ac5d507dc4"
+    },
+    {
+     "answer": "Wi-Fi",
+     "correct": false,
+     "_id": "8418d30b-f663-0db8-fff3-f210f2b100a1"
+    },
+    {
+     "answer": "Ethernet",
+     "correct": false,
+     "_id": "662d3605-6969-9e30-9a04-5bcdfa742ff4"
+    },
+    {
+     "correct": true,
+     "answer": "Email",
+     "_id": "a3ef9f56-aab8-3374-3cb8-4d34a23ea238"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1509261828",
+  "source": {
+   "name": "Question 3: Renting space on a web server for users to develop websites is called…",
+   "showName": false,
+   "instructions": "**Question 3: Renting space on a web server for users to develop websites is called…**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "partitioning",
+     "correct": false,
+     "_id": "c7c5f1ce-14bc-1d1b-1bce-de66ba081ccf"
+    },
+    {
+     "correct": true,
+     "answer": "hosting",
+     "_id": "83f11c39-483b-0644-0909-43182049a6a9"
+    },
+    {
+     "answer": "developing",
+     "correct": false,
+     "_id": "46e3e267-1615-3d41-afca-f5f29682d94f"
+    },
+    {
+     "answer": "serving",
+     "correct": false,
+     "_id": "b2b3eca0-2a2e-0917-1dc2-26c6e077a372"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2761339384",
+  "source": {
+   "name": "Question 4: An IPv4 IP address consists of…",
+   "showName": false,
+   "instructions": "**Question 4: An IPv4 IP address consists of…**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "2, 8-bit numbers",
+     "correct": false,
+     "_id": "fc1be84b-1cdf-29fd-3af3-710553d9decd"
+    },
+    {
+     "answer": "3, 8-bit numbers",
+     "correct": false,
+     "_id": "3821a7fd-326a-d565-70aa-5da6a50b33fd"
+    },
+    {
+     "correct": true,
+     "answer": "4, 8-bit numbers",
+     "_id": "54b096ec-45c2-237f-b6eb-551d6324b0bb"
+    },
+    {
+     "answer": "5, 8-bit numbers",
+     "correct": false,
+     "_id": "760f94c3-7de5-5455-eca2-4890b70c6639"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1367447751",
+  "source": {
+   "name": "Question 5: A text string used to represent an IP address is called…",
+   "showName": false,
+   "instructions": "**Question 5: A text string used to represent an IP address is called…**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "3ffeeccc-a55f-12e7-eb44-4de70ddc0f62",
+     "correct": false,
+     "answer": "a URL"
+    },
+    {
+     "_id": "25e9de3c-74b3-82ac-1c27-a477b7539cff",
+     "correct": false,
+     "answer": "a web name"
+    },
+    {
+     "_id": "a89b52d7-76ea-000f-7091-be471ada627c",
+     "correct": false,
+     "answer": "A text address"
+    },
+    {
+     "_id": "12da40e7-68f5-149f-18f2-bbe7c68f123e",
+     "correct": true,
+     "answer": "a domain name"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2938691632",
+  "source": {
+   "name": "Question 6: DNS stands for…",
+   "showName": false,
+   "instructions": "**Question 6: DNS stands for…**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Domain Name Standard",
+     "correct": false,
+     "_id": "ded5ba90-d3b9-24b3-edb8-e56fe319b14e"
+    },
+    {
+     "correct": true,
+     "answer": "Domain Name Service",
+     "_id": "a9aebdaa-d170-65aa-1208-beeef9fa758d"
+    },
+    {
+     "answer": "Distributed Name Service",
+     "correct": false,
+     "_id": "7daed383-a223-bdcf-7c22-7c61d43de9ee"
+    },
+    {
+     "answer": "Development Name Service",
+     "correct": false,
+     "_id": "445267c7-4764-26a0-e5ce-58051d8829c2"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1149743115",
+  "source": {
+   "name": "Question 7: The role of DNS is to…",
+   "showName": false,
+   "instructions": "**Question 7: The role of DNS is to…**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Connect a client to a host computer on the internet",
+     "correct": false,
+     "_id": "7bbd5888-25c3-7f49-29dc-4fb489cb9fc6"
+    },
+    {
+     "correct": true,
+     "answer": "Resolve the IP address of a domain name",
+     "_id": "274647aa-0677-287f-987c-d8ec7d334b9e"
+    },
+    {
+     "answer": "Transfer data between a host and a client",
+     "correct": false,
+     "_id": "3cb273ce-fff2-3150-1cf3-647d0092d6f4"
+    },
+    {
+     "answer": "Deliver email messages on the internet",
+     "correct": false,
+     "_id": "ab191107-5e2e-da25-11da-d16760c9793d"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-207388345",
+  "source": {
+   "name": "Question 8: Which two of the following are advantages of cloud computing?",
+   "showName": false,
+   "instructions": "**Question 8: Which two of the following are advantages of cloud computing?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "answer": "An internet connection is not needed",
+     "correct": false,
+     "_id": "4939a977-e806-9e03-eef5-1686e2abb588"
+    },
+    {
+     "answer": "The creators of the data have more control of its storage and use",
+     "correct": false,
+     "_id": "86656eb8-0dc5-5e1d-fc34-bc2d792230a7"
+    },
+    {
+     "correct": true,
+     "answer": "Lower maintenance costs",
+     "_id": "196199c8-9536-f8a4-2eaf-d21b461f9d88"
+    },
+    {
+     "correct": true,
+     "answer": "All data is automatically backed up",
+     "_id": "6c200eb3-198a-08d9-7d48-2958db653815"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-284509200",
+  "source": {
+   "name": "Question 9: Being able to control and use a remote computer across the internet using a web browser is called…",
+   "showName": false,
+   "instructions": "**Question 9: Being able to control and use a remote computer across the internet using a web browser is called…**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "visual networking",
+     "correct": false,
+     "_id": "873c155d-3835-cf94-ff42-885fcdf98967"
+    },
+    {
+     "correct": true,
+     "answer": "virtual networking",
+     "_id": "384dd5ab-9aa2-16e5-f4a0-cd1ae1c80143"
+    },
+    {
+     "answer": "remote networking",
+     "correct": false,
+     "_id": "d5816019-6bf2-7c76-8e98-3f2c9c88a682"
+    },
+    {
+     "answer": "internet networking",
+     "correct": false,
+     "_id": "abb8b6ac-4019-7235-67e3-39cdaaa02a6d"
+    }
+   ]
+  }
+ }
+]

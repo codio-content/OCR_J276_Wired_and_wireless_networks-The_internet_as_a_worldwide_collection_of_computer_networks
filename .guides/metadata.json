@@ -1,0 +1,106 @@
+{
+ "sections": [
+  {
+   "id": "a5ef2ab6-b5bb-1375-38cf-39065a2d0363",
+   "title": "Introduction",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Introduction-a5ef.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "e8985d7e-e9dd-cef7-27ec-541f08e46eaf",
+   "title": "Hosting",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Hosting-e898.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "69596798-040c-f38d-e86f-d9a4a39a639c",
+   "title": "Addresses",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Addresses-6959.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "dd833919-b1b4-7275-36b8-55005108cc98",
+   "title": "Domain names",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Domain-names-dd83.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ed409cec-c2d0-39a9-3dac-2717a6abae38",
+   "title": "DNS – Domain Name Service or Domain Name Server",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/DNS---Domain-Name-Service-or-Domain-Name-Server-ed40.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2ce4f217-0331-367c-2753-9dc1ba669ef4",
+   "title": "The Cloud",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-Cloud-2ce4.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a76d4cce-3353-3985-cb42-700e43fe2288",
+   "title": "The concept of virtual networks",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-concept-of-virtual-networks-a76d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a738149c-78ae-0da2-7758-b8fc8821071f",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-a738.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "5f49351d-0a96-a68b-0fef-760b37ef2ea7",
+   "title": "Questions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Questions-5f49.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

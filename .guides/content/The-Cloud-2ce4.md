@@ -1,6 +1,6 @@
 Cloud computing means storing and accessing data and programs over the Internet instead of a computer's hard drive. The cloud just means the Internet.
 
-The commonest use of the cloud is for data storage but all of the software accessed by a computer user can be stored there e.g. Office online and Google tools.
+The most common use of the cloud is for data storage but all of the software accessed by a computer user can be stored there e.g. Office online and Google tools.
 
 Cloud computing provides advantages for individuals and businesses, such as:
 

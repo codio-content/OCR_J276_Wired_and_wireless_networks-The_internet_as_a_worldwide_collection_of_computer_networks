@@ -22,12 +22,12 @@
     },
     {
      "_id": "96a58753-a498-78a3-c0cc-bb37e5058efb",
-     "correct": false,
+     "correct": true,
      "answer": "wide area network"
     },
     {
      "_id": "6fa68b3f-4e72-bdea-adc4-0481b237c86e",
-     "correct": true,
+     "correct": false,
      "answer": "metropolitan area network"
     }
    ]
